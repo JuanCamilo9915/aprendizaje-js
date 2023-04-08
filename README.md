@@ -1,3 +1,3 @@
 # Aprendizaje JS
 
-rama de Main
+aquí reposrán los conceptos generales sobre JS!!!.
